@@ -1,0 +1,27 @@
+[
+  {
+    "Quantity": 15,
+    "Name": "Chocolate Bar",
+    "Date": "2024-03-29T17:21:29.2074012+03:00"
+  },
+  {
+    "Quantity": 65,
+    "Name": "Water Bottle",
+    "Date": "2024-03-29T17:21:29.2084455+03:00"
+  },
+  {
+    "Quantity": 20,
+    "Name": "NoteBoosk",
+    "Date": "2024-03-29T17:21:29.2084464+03:00"
+  },
+  {
+    "Quantity": 50,
+    "Name": "Tissue Pack",
+    "Date": "2024-03-29T17:21:29.2084465+03:00"
+  },
+  {
+    "Quantity": 10,
+    "Name": "Soda Can",
+    "Date": "2024-03-29T17:21:29.2084466+03:00"
+  }
+]

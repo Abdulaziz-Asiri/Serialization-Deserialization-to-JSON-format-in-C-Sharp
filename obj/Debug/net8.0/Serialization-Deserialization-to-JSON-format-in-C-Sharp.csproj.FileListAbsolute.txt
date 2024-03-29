@@ -1,0 +1,15 @@
+c:\Users\abood\Desktop\Local-Repository\Serialization-Deserialization-to-JSON-format-in-C-Sharp\obj\Debug\net8.0\Serialization-Deserialization-to-JSON-format-in-C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\abood\Desktop\Local-Repository\Serialization-Deserialization-to-JSON-format-in-C-Sharp\obj\Debug\net8.0\Serialization-Deserialization-to-JSON-format-in-C-Sharp.AssemblyInfoInputs.cache
+c:\Users\abood\Desktop\Local-Repository\Serialization-Deserialization-to-JSON-format-in-C-Sharp\obj\Debug\net8.0\Serialization-Deserialization-to-JSON-format-in-C-Sharp.AssemblyInfo.cs
+c:\Users\abood\Desktop\Local-Repository\Serialization-Deserialization-to-JSON-format-in-C-Sharp\obj\Debug\net8.0\Serialization-Deserialization-to-JSON-format-in-C-Sharp.csproj.CoreCompileInputs.cache
+c:\Users\abood\Desktop\Local-Repository\Serialization-Deserialization-to-JSON-format-in-C-Sharp\obj\Debug\net8.0\Serialization-Deserialization-to-JSON-format-in-C-Sharp.sourcelink.json
+C:\Users\abood\Desktop\Local-Repository\Serialization-Deserialization-to-JSON-format-in-C-Sharp\bin\Debug\net8.0\Serialization-Deserialization-to-JSON-format-in-C-Sharp.exe
+C:\Users\abood\Desktop\Local-Repository\Serialization-Deserialization-to-JSON-format-in-C-Sharp\bin\Debug\net8.0\Serialization-Deserialization-to-JSON-format-in-C-Sharp.deps.json
+C:\Users\abood\Desktop\Local-Repository\Serialization-Deserialization-to-JSON-format-in-C-Sharp\bin\Debug\net8.0\Serialization-Deserialization-to-JSON-format-in-C-Sharp.runtimeconfig.json
+C:\Users\abood\Desktop\Local-Repository\Serialization-Deserialization-to-JSON-format-in-C-Sharp\bin\Debug\net8.0\Serialization-Deserialization-to-JSON-format-in-C-Sharp.dll
+C:\Users\abood\Desktop\Local-Repository\Serialization-Deserialization-to-JSON-format-in-C-Sharp\bin\Debug\net8.0\Serialization-Deserialization-to-JSON-format-in-C-Sharp.pdb
+C:\Users\abood\Desktop\Local-Repository\Serialization-Deserialization-to-JSON-format-in-C-Sharp\obj\Debug\net8.0\Serialization-Deserialization-to-JSON-format-in-C-Sharp.dll
+C:\Users\abood\Desktop\Local-Repository\Serialization-Deserialization-to-JSON-format-in-C-Sharp\obj\Debug\net8.0\refint\Serialization-Deserialization-to-JSON-format-in-C-Sharp.dll
+C:\Users\abood\Desktop\Local-Repository\Serialization-Deserialization-to-JSON-format-in-C-Sharp\obj\Debug\net8.0\Serialization-Deserialization-to-JSON-format-in-C-Sharp.pdb
+C:\Users\abood\Desktop\Local-Repository\Serialization-Deserialization-to-JSON-format-in-C-Sharp\obj\Debug\net8.0\Serialization-Deserialization-to-JSON-format-in-C-Sharp.genruntimeconfig.cache
+C:\Users\abood\Desktop\Local-Repository\Serialization-Deserialization-to-JSON-format-in-C-Sharp\obj\Debug\net8.0\ref\Serialization-Deserialization-to-JSON-format-in-C-Sharp.dll
