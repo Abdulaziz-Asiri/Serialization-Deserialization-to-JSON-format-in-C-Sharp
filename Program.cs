@@ -8,6 +8,7 @@ public class Program
 
     public static void Main(string[] args)
     {
+        //-------------------------------------------- Serialization  section ----------------------------------------------------------------
         // Convert List of collections to JSON format
 
         List<Items> readItems = Items.GetItems(); // Call GetITems method from Items calss
@@ -21,10 +22,20 @@ public class Program
         Console.WriteLine(jsonString); // print JSON in terminal
         File.WriteAllText("items.json", jsonString); // Save collections as JSON formate file
 
-        // var itemsJson = File.ReadAllText("itemsJSON.json");
+        //-------------------------------------------- Deserialization section ----------------------------------------------------------------
 
-        // Items items = JsonSerializer.Deserialize<Items>(itemsJson);
+        var itemsJson = File.ReadAllText(@"itemsJSON.json");
 
-        // Console.WriteLine(items); // print JSON in terminal;
+        var items = JsonSerializer.Deserialize<List<Items>>(itemsJson);
+
+        if (items != null) // iterate through items and print them out
+        {
+            foreach(var item in items)
+            {
+                Console.WriteLine($"Quantity:{item.Quantity}\nProduct Name: {item.Name}\nDate: {item.Date} \n");
+            }
+        }
+        
+
     }
 }

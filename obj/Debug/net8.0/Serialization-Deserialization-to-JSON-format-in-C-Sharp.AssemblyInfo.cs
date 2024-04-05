@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Serialization-Deserialization-to-JSON-format-in-C-Sharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2066ebfbc078e2c38f774021238500531b20f182")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e11baf53d7c13e32d6a05273c72144b193254124")]
 [assembly: System.Reflection.AssemblyProductAttribute("Serialization-Deserialization-to-JSON-format-in-C-Sharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Serialization-Deserialization-to-JSON-format-in-C-Sharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
