@@ -28,4 +28,4 @@ Now we want to deserialize(Read JSON file) a List of objects to objects, so we n
 Then iterate over the list of objects to print all objects.
 
 ![alt text](output.png)
-`Note:The next step is to add Deserialization JSON file to object.`
+
